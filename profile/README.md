@@ -68,7 +68,7 @@
 | Role | Name | Phone |
 |:---|:---|:---|
 | **President** | Ayush Rao Chaudhary | [+91 8881704974](tel:+918881704974) |
-| **Vice President** | Ashutosh Shukla | [+91 93350 16303](tel:+919335016303) |
+| **Vice President** | Ashutosh Shukla | [+91 9335016303](tel:+919335016303) |
 
 **Email** · [awscloudclub@kiet.edu](mailto:awscloudclub@kiet.edu)
 
